@@ -1,0 +1,9 @@
+{
+  "::ffff:172.16.33.125": "PHPSESSID=mramdhufnr0tnnhlmr9l10jmr7; security=low",
+  "::ffff:192.168.1.130": "PHPSESSID=mramdhufnr0tnnhlmr9l10jmr7; security=low",
+  "::ffff:192.168.1.134": "PHPSESSID=l7toelvkr2b9nbe243kc7ang46; security=low",
+  "::ffff:192.168.100.14": "PHPSESSID=472ev8tsn2550pqef6qv8l02l1; security=low",
+  "::ffff:192.168.100.238": "PHPSESSID=4b97n9bmfd0jtd7bldi5qr67r3; security=low",
+  "::ffff:192.168.100.159": "PHPSESSID=pmata8olls0dvn6tvf58phtvt5; security=low",
+  "::ffff:192.168.100.16": "PHPSESSID=ut3f48jh9bcgl3307oisk96fm7; security=low"
+}
